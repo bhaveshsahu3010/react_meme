@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    width: 550px;
+    height: 65px;
+    flex-shrink: 0;
+    background: linear-gradient(90deg, #672280 0%, #A626D3 100%);
+    align-items:center;
+}
+
+.troll{
+    width: 31.306px;
+    height: 26.218px;
+    margin-bottom: 2px;
+    margin-left: 20px;
+    flex-shrink: 0;
+}
+
+.title{
+    color: #FFF;
+    font-size: 19.748px;
+    font-family: "Karla", sans-serif;
+    font-weight:700;
+    letter-spacing: -1.2px;
+    margin-left: 6.69px;
+    display: flex;
+width: 150px;
+flex-direction: column;
+flex-shrink: 0;
+}
+
+.project3{
+    color: #FFF;
+text-align: right;
+font-size: 12px;
+font-family: "Inter", sans-serif;
+font-weight: 600;
+display: flex;
+width: 189px;
+height: 14px;
+flex-direction: column;
+flex-shrink: 0;
+margin-left: 120px;
+}
