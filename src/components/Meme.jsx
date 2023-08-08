@@ -38,7 +38,7 @@ export default function Meme()
             <div className="form" >
                 <div className="cont1">
                     <input type="text" placeholder="Top text" className="rect" name = "topText" onChange={handleChange} value={meme.topText} />
-                    <input type="text" placeholder="Bottam text" className="rect" name = "bottamText" onChange={handleChange} value={meme.bottamText} />
+                    <input type="text" placeholder="Bottom text" className="rect" name = "bottamText" onChange={handleChange} value={meme.bottamText} />
                 </div>
                 <button className="button" onClick={handleonclick}>Get a new meme image  🖼</button>
             </div>
