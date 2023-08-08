@@ -1,10 +1,11 @@
 .header{
     display: flex;
-    width: 550px;
+    width: 559px;
     height: 65px;
     flex-shrink: 0;
     background: linear-gradient(90deg, #672280 0%, #A626D3 100%);
     align-items:center;
+    border-radius: 8px;
 }
 
 .troll{
